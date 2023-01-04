@@ -7,7 +7,7 @@ trigger:
     paths:
         - /ping
 domains:
-    - testPRODDDDD
+    - asdasd
 includes:
     - /functions/ping_pong.go
 execution:
