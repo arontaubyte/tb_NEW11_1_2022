@@ -1,0 +1,13 @@
+id: QmRy16C87NJuVjaebn6E9H6vFUZpm6EbZfWHc7Vp4wXfEh
+description: ""
+tags: []
+path: /asd
+match: asd
+useRegex: false
+access:
+    network: all
+replicas:
+    min: 1
+    max: 100
+storage:
+    size: 100MB
